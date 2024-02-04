@@ -1,9 +1,0 @@
-export { default as Calllogo } from "./Calllogo";
-export { default as Desktop } from "./Desktop";
-export { default as Logo } from "./Logo";
-export { default as Mic } from "./Mic";
-export { default as Nodesktop } from "./Nodesktop";
-export { default as Nomic } from "./Nomic";
-export { default as Novideo } from "./Novideo";
-export { default as Talktome } from "./Talktome";
-export { default as Video } from "./Video";
